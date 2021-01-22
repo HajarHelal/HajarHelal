@@ -1,9 +1,10 @@
 <div align="center">
  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+   <h1>Hi there, I'm Hajar </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>  
   
 
-### <div align="center">I'm Hajar, a Software Engineer and a full stack web developer 👨‍💻 </div>  
+### <div align="center">I'm a Software Engineer and a full stack web developer 💻 </div>  
   
 
 - 💻 Passionate about systems analysis and data base design .  
