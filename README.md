@@ -1,15 +1,15 @@
 <h2>  Hi there, I'm Hajar Helal! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> 
    <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-### <div align="left">I'm a Software Engineer and a full stack web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  </div>  
+ <div align="left">I'm a Software Engineer and a full stack web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  </div>  
   
 
 - 💻 Passionate about systems analysis and data base design .  
   
 
-- 🎓  Graduated from University of Science and Technology in Yemen in 2019 a Bachelor's degree in Software Engineering.  
+- <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">  Graduated from University of Science and Technology in Yemen in 2019 a Bachelor's degree in Software Engineering.  
   
 
-- 🎓  Graduated from Re:Coded frontend bootcamp in 2020.  
+- <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">  Graduated from Re:Coded frontend bootcamp in 2020.  
   
 
 - 🔭  working on  improving my React skills  
