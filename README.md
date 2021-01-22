@@ -1,10 +1,6 @@
-<div align="center">
- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-   <h1>Hi there, I'm Hajar </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-</div>  
-  
-
-### <div align="center">I'm a Software Engineer and a full stack web developer 💻 </div>  
+<h2>  Hi there, I'm Hajar Helal! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> 
+   <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+### <div align="left">I'm a Software Engineer and a full stack web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  </div>  
   
 
 - 💻 Passionate about systems analysis and data base design .  
