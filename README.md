@@ -6,32 +6,35 @@
 - 💗 Passionate about systems analysis and database design .  
   
 
-- <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">  Graduated from University of Science and Technology in Yemen in 2019 a Bachelor's degree in Software Engineering.  
+- <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">  Graduated from University of Science and Technology in Yemen in 2020 with a Bachelor's degree in Software Engineering.  
   
 
 - <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">  Graduated from Re:Coded frontend bootcamp in 2020.  
   
 
-- 💻  working on  improving my React skills  
+- 💻  working on  improving my React skills.
   
 
-- 🌱  Currently learning Flutter, Python  
+- 🌱  Currently learning Flutter, Python.
   
 
 - 🤝 I’m looking to collaborate on any project, just drop a DM.  
   
 
-- 📃 Have a look to my [CV](https://docs.google.com/document/d/1gT2_sFH4_E_bPZ6_gexUL_wwbyI9aMfxtUigaTNjbnk/edit?usp=sharing)  
+- 📃 Have a look to my [CV](https://docs.google.com/document/d/1gT2_sFH4_E_bPZ6_gexUL_wwbyI9aMfxtUigaTNjbnk/edit?usp=sharing).  
 
 
-- 😏Confession: I have built projects in different programming  languages, its called "Hello World !"  .  
+- 😏Confession: I have built many projects in different programming  languages, its called "Hello World !" .  
   
 
 <br/>  
 
 
-## Connect with me  
+## Contact with me  
 <div align="center">
+ <a href="https:hajerhelal44@gmailcom" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 <a href="https://github.com/HajarHelal" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
