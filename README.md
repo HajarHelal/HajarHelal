@@ -30,31 +30,24 @@
 <br/>  
 
 
-## Contact with me  
+## Feel Free to Contact me..... 
 <div align="center">
- <a href="https://hajerhelal44@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=Gmail style="margin-bottom: 5px;/>
-</a>
-<a href="https://github.com/HajarHelal" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/Hajar-Helal" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+<a href="https://github.com/HajarHelal"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+<a href="https://linkedin.com/in/Hajar-Helal"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+<a href="https://hajerhelal44@gmail.com" ><img alt=Gmail  width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/apple-mail.png"/></a> 
 </div>  
   
 
 <br/>  
 
-
-## Github Stats  
+## Github Stats.....  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=HajarHelal&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
 
 
-### Programming Languages and tools
+### Programming Languages and tools.....
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
