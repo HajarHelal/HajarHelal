@@ -30,7 +30,7 @@
 <br/>  
 
 
-##🥰 Feel Free to Contact me..... 
+## 🥰 Feel Free to Contact me..... 
 <div align="center">
 <a href="https://github.com/HajarHelal"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 <a href="https://linkedin.com/in/Hajar-Helal"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
@@ -40,14 +40,14 @@
 
 <br/>  
 
-## 📊Github Stats.....  
+## 📊 Github Stats.....  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=HajarHelal&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 
 <br/>  
 
 
-##🛠️ Programming Languages and tools.....
+## 🛠️ Programming Languages and tools.....
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
