@@ -32,8 +32,8 @@
 
 ## Contact with me  
 <div align="center">
- <a href="https:hajerhelal44@gmailcom" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+ <a href="https://hajerhelal44@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=Gmail style="margin-bottom: 5px;/>
 </a>
 <a href="https://github.com/HajarHelal" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
