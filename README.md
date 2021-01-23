@@ -3,7 +3,7 @@
  <h3 align="left">I'm a Software Engineer and a full stack web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  </h3>  
   
 
-- 💻 Passionate about systems analysis and data base design .  
+- 💗 Passionate about systems analysis and database design .  
   
 
 - <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">  Graduated from University of Science and Technology in Yemen in 2019 a Bachelor's degree in Software Engineering.  
@@ -12,7 +12,7 @@
 - <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">  Graduated from Re:Coded frontend bootcamp in 2020.  
   
 
-- 🔭  working on  improving my React skills  
+- 💻  working on  improving my React skills  
   
 
 - 🌱  Currently learning Flutter, Python  
@@ -22,6 +22,9 @@
   
 
 - 📃 Have a look to my [CV](https://docs.google.com/document/d/1gT2_sFH4_E_bPZ6_gexUL_wwbyI9aMfxtUigaTNjbnk/edit?usp=sharing)  
+
+
+- 😏Confession: I have built projects in different programming  languages, its called "Hello World !"  .  
   
 
 <br/>  
@@ -48,7 +51,7 @@
 
 
 
-### Programming Languages  
+### Programming Languages and tools
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
