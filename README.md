@@ -15,7 +15,7 @@
 - 💻  working on  improving my React skills.
   
 
-- 🌱  Currently learning Flutter, Python.
+- 🌱  Currently learning Python.
   
 
 - 🤝 I’m looking to collaborate on any project, just drop a DM.  
